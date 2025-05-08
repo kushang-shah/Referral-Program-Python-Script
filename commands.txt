@@ -1,1 +1,1 @@
-python3 script.py refund.csv staging YXA6bm9wb3I0dmdwbG9rYzRrYnZyanF2dmpqdjE= 50 50 50
+python3 script.py refund.csv staging <SECRET_TOKEN> 50 50 50
